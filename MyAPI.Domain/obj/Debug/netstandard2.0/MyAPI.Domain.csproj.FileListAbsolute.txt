@@ -1,0 +1,9 @@
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.deps.json
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.AssemblyInfo.cs
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.csprojAssemblyReference.cache

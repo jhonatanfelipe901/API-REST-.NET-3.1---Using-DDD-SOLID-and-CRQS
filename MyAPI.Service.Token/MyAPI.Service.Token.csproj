@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyAPI.Domain\MyAPI.Domain.csproj" />
+    <ProjectReference Include="..\MyAPI.Service.Core\MyAPI.Service.Core.csproj" />
+  </ItemGroup>
+
+</Project>

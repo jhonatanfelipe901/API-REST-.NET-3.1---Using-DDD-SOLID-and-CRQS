@@ -1,0 +1,12 @@
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.deps.json
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.dll
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csprojAssemblyReference.cache
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.AssemblyInfo.cs
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.CopyComplete
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.dll
+C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
