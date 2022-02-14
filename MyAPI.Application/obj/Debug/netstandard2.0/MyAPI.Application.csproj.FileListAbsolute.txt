@@ -12,3 +12,18 @@ C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Application\obj\Debug\nets
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.csproj.CopyComplete
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.dll
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.Application.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.Application.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.Application.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.CrossCutting.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\bin\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.csproj.CopyComplete
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Application\obj\Debug\netstandard2.0\MyAPI.Application.pdb

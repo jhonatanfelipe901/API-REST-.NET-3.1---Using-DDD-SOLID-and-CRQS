@@ -30,8 +30,8 @@ namespace MYAPI.Data.Repository
 
                 connection.Open();
 
-                var query = @"INSERT INTO [master].[dbo].[User] ([UId], [Name], [Email], [Password], [Role], [CreateDate])
-                            VALUES (@UId ,@Name, @Email, @Password, @Role, GETDATE())";
+                var query = @"INSERT INTO [dbo].[User] ([UId], [Name], [Email], [Password], [Role], [CreateDate])
+                            VALUES (@UId, @Name, @Email, @Password, @Role, GETDATE())";
 
                 connection.Query<User>(query, userParameters).ToList();
             }

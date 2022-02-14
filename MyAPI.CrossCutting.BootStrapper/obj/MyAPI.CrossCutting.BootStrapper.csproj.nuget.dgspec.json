@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj": {}
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj",
         "projectName": "MyAPI.Application",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,16 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj"
               },
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj"
               }
             }
           }
@@ -44,6 +50,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -158,21 +165,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj",
         "projectName": "MyAPI.CrossCutting.BootStrapper",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting.BootStrapper\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting.BootStrapper\\MyAPI.CrossCutting.BootStrapper.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting.BootStrapper\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,19 +191,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj"
               },
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\MYAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\MYAPI.Data.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\MYAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\MYAPI.Data.csproj"
               },
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj"
               }
             }
           }
@@ -205,6 +218,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -319,21 +333,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj",
         "projectName": "MyAPI.CrossCutting",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -341,13 +359,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj"
               }
             }
           }
@@ -360,7 +380,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "Microsoft.AspNetCore.Connections.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -412,21 +437,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\MYAPI.Data.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\MYAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\MYAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\MYAPI.Data.csproj",
         "projectName": "MYAPI.Data",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\MYAPI.Data.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MYAPI.Data\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\MYAPI.Data.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MYAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -434,16 +463,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.CrossCutting\\MyAPI.CrossCutting.csproj"
               },
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj"
               }
             }
           }
@@ -456,6 +487,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -574,21 +606,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj",
         "projectName": "MyAPI.Domain",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -596,10 +632,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -611,6 +649,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -743,21 +782,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj",
         "projectName": "MyAPI.Service.Core",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -765,13 +808,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Application\\MyAPI.Application.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Application\\MyAPI.Application.csproj"
               }
             }
           }
@@ -784,7 +829,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -802,21 +852,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj": {
+    "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj",
+        "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj",
         "projectName": "MyAPI.Service.Token",
-        "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj",
-        "packagesPath": "C:\\Users\\jnascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Token\\obj\\",
+        "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\MyAPI.Service.Token.csproj",
+        "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Token\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -824,16 +878,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Domain\\MyAPI.Domain.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Domain\\MyAPI.Domain.csproj"
               },
-              "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj": {
-                "projectPath": "C:\\Users\\jnascimento\\Desktop\\Projetos\\App\\MyAPI\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj"
+              "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj": {
+                "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Projetos\\My Proj\\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\\MyAPI.Service.Core\\MyAPI.Service.Core.csproj"
               }
             }
           }
@@ -846,7 +902,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -864,7 +925,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

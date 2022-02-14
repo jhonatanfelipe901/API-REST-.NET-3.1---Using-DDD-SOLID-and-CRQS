@@ -7,6 +7,7 @@ using MyAPI.Domain.Entities;
 using MyAPI.Domain.Service.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static MyAPI.CrossCutting.Helpers.Encryption;
@@ -61,6 +62,16 @@ namespace MyAPI.Application.Application
                 var user = new User();
 
                 user.CreateAddRegister(request.Name, request.Email, new Encryption(HashProvider.MD5).GetHash(request.Password), request.Role, Guid.NewGuid().ToString());
+
+                var errors = user.ValidateRegisterNew(_userService);
+
+                if (errors.Any())
+                    return GetBaseResponseWithErrors<UserRegisterResponse>(errors);
+
+                var userExist = _userService.Get(x => x.Email == request.Email);
+
+                if(userExist != null)
+                    return GetBaseResponseWithError<UserRegisterResponse>("Email já cadastrado.");
 
                 _userService.Register(user);
 

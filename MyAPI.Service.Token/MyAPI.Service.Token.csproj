@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MyAPI.Domain\MyAPI.Domain.csproj" />
     <ProjectReference Include="..\MyAPI.Service.Core\MyAPI.Service.Core.csproj" />
   </ItemGroup>

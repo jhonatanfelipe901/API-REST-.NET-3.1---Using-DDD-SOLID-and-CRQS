@@ -29,8 +29,6 @@ namespace MyAPI.Controllers
         {
             if (!ModelState.IsValid) return ResponseBadRequest<UserRegisterRequest>(GetModelStateErrors());
 
-            if (request.Password != request.ConfirmPassword) return ResponseBadRequest<UserRegisterResponse>(GetModelStateErrors());
-
             var response = await _userApplication.Register(request);
 
             return BaseResponse(response);
@@ -57,7 +55,5 @@ namespace MyAPI.Controllers
 
             return BaseResponse<IEnumerable<UserListResponse>>(users);
         }
-
-
     }
 }

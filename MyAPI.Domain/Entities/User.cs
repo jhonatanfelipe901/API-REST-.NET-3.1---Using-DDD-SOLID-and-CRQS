@@ -1,5 +1,8 @@
-﻿using System;
+﻿using MyAPI.Domain.Service.Contracts;
+using MyAPI.Domain.Validations.User;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace MyAPI.Domain.Entities
@@ -20,6 +23,12 @@ namespace MyAPI.Domain.Entities
             Password = password;
             Role = role;
         }
+
         public virtual ICollection<Voting> Votings { get; set; }
+
+        public IEnumerable<string> ValidateRegisterNew(IUserService userService)
+        {
+            return new RegisterNewUserValidation(userService).Validate(this).Errors.Select(e => e.ErrorMessage);
+        }
     }
 }

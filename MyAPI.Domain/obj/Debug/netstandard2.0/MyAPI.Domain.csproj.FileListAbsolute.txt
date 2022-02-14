@@ -7,3 +7,13 @@ C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstanda
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.dll
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.pdb
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.csprojAssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\bin\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.Domain\obj\Debug\netstandard2.0\MyAPI.Domain.pdb

@@ -20,8 +20,8 @@ namespace MyAPI.Application.DTO.Request.Users
         [Required(ErrorMessage = "A senha é obrigatória.")]
         public string Password { get; set; }
 
-        [JsonProperty("confirmpassword")]
-        [Required(ErrorMessage = "A senha é obrigatória.")]
+        [JsonProperty("confirmPassword")]
+        [Required(ErrorMessage = "A confirmação da senha é obrigatória.")]
         public string ConfirmPassword { get; set; }
 
         [JsonProperty("role")]

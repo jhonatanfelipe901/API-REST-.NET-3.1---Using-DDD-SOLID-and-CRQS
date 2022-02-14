@@ -10,3 +10,16 @@ C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\net
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.CopyComplete
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.dll
 C:\Users\jnascimento\Desktop\Projetos\App\MyAPI\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.Domain.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\bin\Debug\netstandard2.0\MyAPI.Domain.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.csproj.CopyComplete
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Projetos\My Proj\API-REST-.NET-3.1---Using-DDD-SOLID-and-CRQS\MyAPI.CrossCutting\obj\Debug\netstandard2.0\MyAPI.CrossCutting.pdb
